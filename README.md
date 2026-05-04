@@ -19,6 +19,11 @@ This repository contains two core components:
   <br>
 
 </p>
+<p align="center">
+  <img src="Screenshot 2026-05-04 180907.png" alt="QR scanner" width="500">
+  <br>
+  
+</p>
 
 
 Bunk Calculator is a native Android application built specifically for students of Graphic Era Hill University (GEHU)[cite: 3]. It wraps the university's existing ERP portal inside a WebView and silently augments it with an intelligent JavaScript-based overlay[cite: 3]. 

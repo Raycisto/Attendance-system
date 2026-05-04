@@ -12,18 +12,14 @@ This repository contains two core components:
 <p align="center">
   <img src="WhatsApp Image 2026-05-04 at 6.17.48 PM.jpeg" alt="Student ERP login" width="500">
   <br>
-  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
+  
 </p>
 <p align="center">
   <img src="WhatsApp Image 2026-05-04 at 6.17.48 PM (1).jpeg" alt="Attendance section in ERP" width="500">
   <br>
-  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
+
 </p>
-<p align="center">
-  <img src="Screenshot 2026-05-04 180907.png" alt="DKAP Assists Model Selection" width="500">
-  <br>
-  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
-</p>
+
 
 Bunk Calculator is a native Android application built specifically for students of Graphic Era Hill University (GEHU)[cite: 3]. It wraps the university's existing ERP portal inside a WebView and silently augments it with an intelligent JavaScript-based overlay[cite: 3]. 
 

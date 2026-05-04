@@ -10,7 +10,7 @@ This repository contains two core components:
 
 ## 📱 Part 1: Bunk Calculator (Student ERP Enhancer)
 <p align="center">
-  <img src="Screenshot 2026-05-04 180907.png" alt="DKAP Assists Model Selection" width="500">
+  <img src="WhatsApp Image 2026-05-04 at 6.17.48 PM.jpeg" alt="DKAP Assists Model Selection" width="500">
   <br>
   <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
 </p>

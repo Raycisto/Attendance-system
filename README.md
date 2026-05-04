@@ -35,7 +35,11 @@ All calculations run entirely on the client side[cite: 3].
 
 ## 👨‍🏫 Part 2: AttendQR (Smart Teacher & Student System)
 
-AttendQR eliminates manual roll calls by creating a seamless, real-time connection between a Teacher's dashboard and the students' smartphones using Firebase Realtime Database.
+<p align="center">
+  <img src="Screenshot 2026-05-04 181314" alt="DKAP Assists Model Selection" width="500">
+  <br>
+  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
+</p>AttendQR eliminates manual roll calls by creating a seamless, real-time connection between a Teacher's dashboard and the students' smartphones using Firebase Realtime Database.
 
 ### ✨ Key Features
 * **Teacher Portal (Web):** A dark-themed, interactive dashboard that allows teachers to generate secure, unique QR codes for live class sessions.

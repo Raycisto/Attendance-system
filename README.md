@@ -20,7 +20,7 @@ This repository contains two core components:
 
 </p>
 <p align="center">
-  <img src="Screenshot 2026-05-04 180907.png" alt="QR scanner" width="500">
+  <img src="blurred-image.png" alt="QR scanner" width="500">
   <br>
   
 </p>
@@ -54,7 +54,7 @@ All calculations run entirely on the client side[cite: 3].
 <p align="center">
   <img src="Screenshot 2026-05-04 181314.png" alt="Teacher side" width="500">
   <br>
-  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
+  
 </p>AttendQR eliminates manual roll calls by creating a seamless, real-time connection between a Teacher's dashboard and the students' smartphones using Firebase Realtime Database.
 
 ### ✨ Key Features
